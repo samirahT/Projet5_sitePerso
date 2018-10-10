@@ -51,8 +51,8 @@ class ControleurAccueil extends Controleur {
         $contact = $this->contact->getContacts();
 
 
-        $id = 1; //Prendre le premier id , le seul profil
-        $profil = $this->profil->getProfil($id);
+        //$id = 1; //Prendre le premier id , le seul profil
+        $profil = $this->profil->getLastProfil();
 
 
 

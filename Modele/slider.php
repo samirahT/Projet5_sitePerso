@@ -57,6 +57,14 @@ class Slider extends Modele {
 
     // Ajoute un slider dans la base
     public function ajouterSlider( $image, $lien, $texte, $etat, $texte2, $estPrincipal) {
+
+        if(intval($estPrincipal) ==1)
+        {
+            $sql= 'update slider set estPrincipal = 0 ';
+            $this->executerRequete($sql, array( ));
+
+        }
+
         $sql = 'insert into slider(image , lien , texte, etat, texte2, estPrincipal)'
             . ' values( ?, ? , ?, ?, ?, ?)';
 

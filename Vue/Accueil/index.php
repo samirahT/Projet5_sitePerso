@@ -8,6 +8,7 @@
                 <li data-target="#carousel-slider" data-slide-to="1"></li>
                 <li data-target="#carousel-slider" data-slide-to="2"></li>
             </ol>
+
             <div class="carousel-inner">
                 <?php  foreach ($sliders as $slider): ?>
                     <div class="item <?php echo (($this->nettoyer($slider['estPrincipal'])== 1)?"active":"");?>">

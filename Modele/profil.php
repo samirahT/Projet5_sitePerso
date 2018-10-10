@@ -42,6 +42,23 @@ class Profil extends Modele {
             throw new Exception("Aucun profil ne correspond au type  '$id'");
     }
 
+
+    /** Renvoie les informations sur un profil
+     *
+     * @param int id du profil
+     * @return array Le profil
+     * @throws Exception Si le type du profil est inconnu
+     */
+    public function getLastProfil() {
+        $sql = 'select id, titre,'
+            . ' descr, image, etat  from profil'
+            . ' order by id desc limit 1';
+        $profil = $this->executerRequete($sql, array());
+        if ($profil->rowCount() > 0)
+            return $profil->fetch();  // Accès à la première ligne de résultat
+        else
+            throw new Exception("Aucun profil ne correspond au type  ");
+    }
     /**
      * Renvoie le nombre total de profils
      *

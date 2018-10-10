@@ -51,7 +51,7 @@
 
 
     <div class="form-group">
-        <input type="radio" name="estPrincipal" value="1" checked> Oui<br>
+        <input type="radio" name="estPrincipal" value="1" checked> Oui, principale<br>
         <input type="radio" name="estPrincipal" value="0"> Non<br>
 
     </div>
