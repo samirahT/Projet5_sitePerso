@@ -5,7 +5,7 @@
 <?php if($ajoutMode): ?>
 
 <div class="alert alert-success"> La nouvelle actualité a bien été ajoutée </div>
-    <a class="btn btn-secondary btn-lg btn-info " href="<?= "index.php?controleur=admin&action=index" ?>">Retour à la page d'administration</a>
+    <a class="btn btn-secondary btn-lg btn-info " href="<?= "index.php?controleur=admin&action=index#actu" ?>">Retour à la page d'administration</a>
 <?php endif; ?>
 <br>
 <br>
@@ -24,9 +24,6 @@
                   placeholder="Description" ></textarea>
     </div>
 
-    <div class="form-group">
-        <input  name="image" type="text" placeholder="image " class="form-control"
-        /></div>
 
    <!-- <div class="form-group">
         <label for="etat"> Visibilité:</label>

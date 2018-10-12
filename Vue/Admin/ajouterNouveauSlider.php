@@ -5,7 +5,7 @@
 <?php if($ajoutMode): ?>
 
 <div class="alert alert-success"> Le nouveau slider a bien été ajouté </div>
-    <a class="btn btn-secondary btn-lg btn-info " href="<?= "index.php?controleur=admin&action=index" ?>">Retour à la page d'administration</a>
+    <a class="btn btn-secondary btn-lg btn-info " href="<?= "index.php?controleur=admin&action=index#slider" ?>">Retour à la page d'administration</a>
 <?php endif; ?>
 <br>
 <br>
@@ -51,7 +51,7 @@
 
 
     <div class="form-group">
-        <input type="radio" name="estPrincipal" value="1" checked> Oui, principale<br>
+        <input type="radio" name="estPrincipal" value="1" checked> Oui, image principale<br>
         <input type="radio" name="estPrincipal" value="0"> Non<br>
 
     </div>

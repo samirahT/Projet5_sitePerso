@@ -15,6 +15,7 @@ Bienvenue, <?= $this->nettoyer($login) ?> !
     <a href="#slider"><span class="badge badge-light"><?= $this->nettoyer($nbSliders) ?></span> slider (s) ,</a>
     <a href="#tournoi"><span class="badge badge-light"><?= $this->nettoyer($nbTournois) ?></span> tournoi (s) ,</a>
     <a href="#contact"><span class="badge badge-light"><?= $this->nettoyer($nbContacts) ?> </span> message (s) .</a>
+    <a href="#image"><span class="badge badge-light"><?= $this->nettoyer($nbImages) ?> </span> images (s) .</a>
 
 </div>
 
@@ -287,7 +288,7 @@ Bienvenue, <?= $this->nettoyer($login) ?> !
             <th>Image</th>
             <th>Texte</th>
 
-            <th>Etat</th>
+            <th>Info</th>
             <th>Action</th>
         </tr>
         </thead>
@@ -302,12 +303,12 @@ Bienvenue, <?= $this->nettoyer($login) ?> !
 
 
                 <td>
-                    <?= $this->nettoyer($slider['image']) ?>
+                    <img src="<?php echo $slider['image'] ?>" width="10%" alt="" />
                 </td>
                 <td><a href="<?= "index.php?controleur=slider&action=index&id=" . $slider['id'] ?>"><?= $this->nettoyer($slider['texte']) ?>
                     </a>
                 </td>
-                <td><a href="<?= "index.php?controleur=slider&action=index&id=" . $slider['id'] ?>"><?= $this->nettoyer($slider['etat']) ?>
+                <td><a href="<?= "index.php?controleur=slider&action=index&id=" . $slider['id'] ?>"><?php echo (($this->nettoyer($slider['estPrincipal'])== 1)?"Principale":"autre");?>
                     </a>
                 </td>
                 <td>
@@ -385,5 +386,35 @@ Bienvenue, <?= $this->nettoyer($login) ?> !
 </div>
 
 
+<!--IMAGE-->
 
+<div id="image" class="jumbotron jumbotron-fluid">
+    <h2>Image</h2><button class="btn btn-success "><a  href="<?= "index.php?controleur=admin&action=ajouterNouveauImageUpload"  ?>"><i class="fa fa-plus" aria-htypeden="true"></i> Nouvelle image</a></button>
+
+
+    <div class="form-group">
+
+        <?php
+        $dir = getcwd().DIRECTORY_SEPARATOR."Upload";
+        $galeries = scandir($dir);
+        foreach ($galeries as $galerie)
+        {
+            if(!is_dir($galerie))
+            {
+                ?>
+
+                <input type="radio" name="image"  value="<?php echo  "/P5/Upload/".$galerie ?>">
+                <img src="<?php echo "/P5/Upload/".$galerie ?>" width="10%" alt="" />
+                <?php
+            }
+        }
+
+        ?>
+
+    </div>
+
+
+
+
+</div>
 

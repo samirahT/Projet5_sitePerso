@@ -4,7 +4,7 @@
 
 <?php if($ajoutMode): ?>
 <div class="alert alert-success"> Le nouveau contact a bien été ajouté </div>
-    <a class="btn btn-secondary btn-lg btn-info " href="<?= "index.php?controleur=admin&action=index" ?>">Retour à la page d'administration</a>
+    <a class="btn btn-secondary btn-lg btn-info " href="<?= "index.php?controleur=admin&action=index#contact" ?>">Retour à la page d'administration</a>
 <?php endif; ?>
 <br>
 <br>

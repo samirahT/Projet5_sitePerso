@@ -13,13 +13,23 @@ if( !empty($message) )
     echo "\t</p>\n\n";
 }
 ?>
+
+<?php if($ajoutMode): ?>
+
+    <div class="alert alert-success"> La nouvelle image a bien été ajoutée </div>
+    <a class="btn btn-secondary btn-lg btn-info " href="<?= "index.php?controleur=admin&action=index#image" ?>">Retour à la page d'administration</a>
+<?php endif; ?>
+
 <!-- Debut du formulaire -->
 <form enctype="multipart/form-data" action= "index.php?controleur=admin&action=uploadImage" method="post">
+
+
+
     <fieldset>
-        <legend>Formulaire</legend>
+
         <p>
-            <label for="fichier_a_uploader" title="Recherchez le fichier à uploader !">Envoyer le fichier :</label>
-            <input type="hidden" name="MAX_FILE_SIZE" value="<?php echo MAX_SIZE; ?>" />
+            <label for="fichier_a_uploader" >Envoyer le fichier :</label>
+
             <input name="fichier" type="file" id="fichier_a_uploader" />
             <input type="submit" name="submit" value="Uploader" />
         </p>
@@ -30,6 +40,5 @@ if( !empty($message) )
 
 
     <a class="btn btn-secondary " href="<?= "index.php?controleur=admin&action=index" ?>">Annuler</a>
-
 
 

@@ -63,7 +63,7 @@
     <div class="starter-template" style="padding-top: 5px;">
 
 <!--about-->
-<section id="section-about">
+<section id="section-about" ">
 
 
             <div class="row mar-bot40">
@@ -78,27 +78,33 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" >
 
-                <div class="row-slider">
-                    <div class="col-lg-6 mar-bot30">
-                        <div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
+                <div >
+                    <div class="col-lg-6 ">
+                        <img alt="" class="img-responsive" src="<?php echo $profil['image'] ;?>" width="100%" height="350" />
+                        <!--<div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
                             <div class="slides" data-group="slides">
                                 <ul>
 
                                     <div class="slide-body" data-group="slide">
+                                     <?php /*foreach ($profils as $pro):*/?>
 
-                                                <li><img alt="" class="img-responsive" src="MC/img/9.jpg" width="100%" height="350" /></li>
-                                                <li><img alt="" class="img-responsive" src="MC/img/10.jpg" width="100%" height="350" /></li>
+                                            <li><img alt="" class="img-responsive" src="<?php /*echo  (isset($pro['image'])?($pro['image']):"" );*/?>" width="100%" height="350" /></li>
+                                     <?php /*endforeach;
+                                        */?>
+
+<!--                                                <li><img alt="" class="img-responsive" src="--><?php /*//echo $profil['image'] ;*/?><!--" width="100%" height="350" /></li>-->
+                                                <!--<li><img alt="" class="img-responsive" src="MC/img/10.jpg" width="100%" height="350" /></li>
                                                 <li><img alt="" class="img-responsive" src="MC/img/11.jpg" width="100%" height="350" /></li>
-
-                                    </div>
+-->
+                                  <!--  </div>
                                 </ul>
                                 <a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
                                 <a class="slider-control right" href="#" data-jump="next"><i class="fa fa-angle-right fa-2x"></i></a>
 
                             </div>
-                        </div>
+                        </div>-->-->
                     </div>
                     <!--/PROFIL-->
                     <div class="col-lg-6 ">

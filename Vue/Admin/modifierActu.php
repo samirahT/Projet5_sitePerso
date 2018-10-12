@@ -20,9 +20,7 @@
                   > <?= $this->nettoyer($actu['descr']) ?></textarea>
     </div>
 
-    <div class="form-group">
-        <input id="titre" name="image" type="text" value="<?= $this->nettoyer($actu['image']) ?>" class="form-control" placeholder="Image"
-        /></div>
+
 
     <!--<div class="form-group">
         <label for="etat"> Visibilité:</label>

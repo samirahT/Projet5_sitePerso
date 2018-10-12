@@ -5,7 +5,7 @@
 <?php if($ajoutMode): ?>
 
 <div class="alert alert-success"> Le nouveau profil a bien été ajouté </div>
-    <a class="btn btn-secondary btn-lg btn-info " href="<?= "index.php?controleur=admin&action=index" ?>">Retour à la page d'administration</a>
+    <a class="btn btn-secondary btn-lg btn-info " href="<?= "index.php?controleur=admin&action=index#profil" ?>">Retour à la page d'administration</a>
 <?php endif; ?>
 <br>
 <br>
@@ -22,8 +22,24 @@
     </div>
 
     <div class="form-group">
-        <input id="titre" name="image" type="text" placeholder="image " class="form-control"
-        /></div>
+        <?php
+        $dir = getcwd().DIRECTORY_SEPARATOR."Upload";
+        $galeries = scandir($dir);
+        foreach ($galeries as $galerie)
+        {
+            if(!is_dir($galerie))
+            {
+                ?>
+
+                <input type="radio" name="image"  value="<?php echo  "/P5/Upload/".$galerie ?>">
+                <img src="<?php echo "/P5/Upload/".$galerie ?>" width="10%" alt="" />
+                <?php
+            }
+        }
+
+        ?>
+
+    </div>
 
     <!--<div class="form-group">
         <label for="etat"> Visibilité:</label>

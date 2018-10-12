@@ -40,10 +40,15 @@
 
     </div>
     <div class="form-group">
-        <input id="titre" name="lien" type="text" placeholder="Lien" class="form-control"
+        <input id="titre" name="lien" type="text" value="<?=$this->nettoyer($slider['lien'])?>" class="form-control"
         />
     </div>
 
+    <div class="form-group">
+        <input type="radio" name="estPrincipal" value="1"  <?php echo (($this->nettoyer($slider['estPrincipal'])== 1)?"checked":"");?>  > Oui, image principale<br>
+        <input type="radio" name="estPrincipal" value="0" <?php echo (($this->nettoyer($slider['estPrincipal'])== 0)?"checked":"");?>  > Non<br>
+
+    </div>
     <input type="hidden" name="id" value="<?= $slider['id'] ?>" />
 
     <input type="submit" class="btn btn-secondary" value="Modifier" />

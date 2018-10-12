@@ -69,7 +69,7 @@
     </script>
 
 </head>
-<body>
+<body style=" ">
 <div class="header">
     <section id="header" class="appear">
 
@@ -100,11 +100,11 @@
     </section>
 </div>
 
-<div style="margin-top: 5px;width: 100%">
+<!--<div style="margin-top: 5px;width: 100%">
     <img src="MC/img/15.jpg" class="img-fluid" alt="">
 </div>
 
-
+-->
 
 
 

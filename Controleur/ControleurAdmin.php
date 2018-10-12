@@ -671,31 +671,6 @@ class ControleurAdmin extends ControleurSecurise
         $this->genererVue(array('image' => $image), null, 'Vue/templateAdmin.php');
     }
 
-//Ajouter un nouveau image
-    public function ajouterNouveauImage()
-    {
-
-        if ($this->requete->existeParametre("id")) {
-            $ajoutMode = true;
-            $nom = $this->requete->getParametre("nom");
-            //$taille = $this->requete->getParametre("taille");
-            $taille = filesize($nom);
-
-
-
-            $this->image->ajouterImage($nom, $taille);
-        }
-        //:::::::::::::::::::::::::::::::::::::::::::::
-
-
-
-
-        $this->genererVue(array("ajoutMode" => $ajoutMode ), null, 'Vue/templateAdmin.php');
-
-    }
-
-
-
 
 
 ///////////////////////////////////////////////////////////////
@@ -706,8 +681,8 @@ class ControleurAdmin extends ControleurSecurise
 // Constantes
         define('TARGET', 'C:\wamp64\www\P5\Upload\Image');    // Repertoire cible
         define('MAX_SIZE', 10000000);    // Taille max en octets du fichier
-        define('WIDTH_MAX', 3200);    // Largeur max de l'image en pixels
-        define('HEIGHT_MAX', 3000);    // Hauteur max de l'image en pixels
+        define('WIDTH_MAX', 6200);    // Largeur max de l'image en pixels
+        define('HEIGHT_MAX', 6000);    // Hauteur max de l'image en pixels
 
 // Tableaux de donnees
         $tabExt = array('jpg','gif','png','jpeg', 'JPEG' , 'JPG');    // Extensions autorisees
@@ -717,6 +692,8 @@ class ControleurAdmin extends ControleurSecurise
         $extension = '';
         $message = '';
         $nomImage = '';
+        $ajoutMode = false;
+
 
 
         /************************************************************
@@ -733,12 +710,10 @@ class ControleurAdmin extends ControleurSecurise
                 // On verifie l'extension du fichier
                 if(in_array(strtolower($extension),$tabExt))
                 {
+                    $temp = $_FILES['fichier']['tmp_name'];
                     // On recupere les dimensions du fichier
-                    $infosImg = getimagesize($_FILES['fichier']['tmp_name']);
+                    $infosImg = getimagesize($temp);
 
-                    // On verifie le type de l'image
-                    if($infosImg[2] >= 1 && $infosImg[2] <= 100)
-                    {
                         // On verifie les dimensions et taille de l'image
                         if(($infosImg[0] <= WIDTH_MAX) && ($infosImg[1] <= HEIGHT_MAX) && (filesize($_FILES['fichier']['tmp_name']) <= MAX_SIZE))
                         {
@@ -753,6 +728,7 @@ class ControleurAdmin extends ControleurSecurise
 
                                 if(move_uploaded_file($_FILES['fichier']['tmp_name'], TARGET.$nomImage))
                                 {
+                                    $ajoutMode = true;
                                     $message = 'Upload réussi !';
                                 }
                                 else
@@ -771,12 +747,6 @@ class ControleurAdmin extends ControleurSecurise
                             // Sinon erreur sur les dimensions et taille de l'image
                             $message = 'Erreur dans les dimensions de l\'image !';
                         }
-                    }
-                    else
-                    {
-                        // Sinon erreur sur le type de l'image
-                        $message = 'Le fichier à uploader n\'est pas une image !';
-                    }
                 }
                 else
                 {
@@ -790,12 +760,14 @@ class ControleurAdmin extends ControleurSecurise
                 $message = 'Veuillez remplir le formulaire svp !';
             }
         }
-       /* var_dump($message);
-        var_dump($nomImage);
-        var_dump($infosImg);*/
+        /*var_dump(($_FILES['fichier']['name']));
+        var_dump($_FILES['fichier']['tmp_name']);
+        var_dump($temp);
+        var_dump($infosImg[2]);*/
 
+var_dump($ajoutMode);
 
-        $this->genererVue(array( "message" => $message), null, 'Vue/templateAdmin.php');
+        $this->genererVue(array( "message" => $message , "ajoutMode" => $ajoutMode), null, 'Vue/templateAdmin.php');
     }
 
 

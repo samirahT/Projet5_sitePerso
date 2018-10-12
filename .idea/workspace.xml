@@ -4,22 +4,25 @@
     <bookmark url="file://$PROJECT_DIR$/MC/css/style.css" line="1134" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d97ae73-f3f2-4c0f-ad29-ea4428f3c5a1" name="Default" comment="Les boutons du slider marchent">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/37907754-258602504933761-3993644158723031040-o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/Image4f0203e4a2310ac56697c8854a56dce6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/Image771ee557930f85450f9872779bc0b7f7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/events-01.jpg" afterPath="" />
+    <list default="true" id="5d97ae73-f3f2-4c0f-ad29-ea4428f3c5a1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/Imagecad93a1a60203df27227bfe9c946b3c8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImageUpload.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controleur/ControleurAccueil.php" afterPath="$PROJECT_DIR$/Controleur/ControleurAccueil.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Modele/profil.php" afterPath="$PROJECT_DIR$/Modele/profil.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Modele/slider.php" afterPath="$PROJECT_DIR$/Modele/slider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controleur/ControleurAdmin.php" afterPath="$PROJECT_DIR$/Controleur/ControleurAdmin.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Accueil/index.php" afterPath="$PROJECT_DIR$/Vue/Accueil/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauActu.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauActu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauContact.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauContact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauEntourage.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauEntourage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauGolf.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauGolf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImage.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauTournoi.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauTournoi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/index.php" afterPath="$PROJECT_DIR$/Vue/Admin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/modifierActu.php" afterPath="$PROJECT_DIR$/Vue/Admin/modifierActu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/modifierSlider.php" afterPath="$PROJECT_DIR$/Vue/Admin/modifierSlider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/uploadImage.php" afterPath="$PROJECT_DIR$/Vue/Admin/uploadImage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/templateAdmin.php" afterPath="$PROJECT_DIR$/Vue/templateAdmin.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,11 +33,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Vue/Accueil/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="297">
+              <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+              <folding>
+                <element signature="e#3726#4464#0#HTML" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templateAccueil.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue/templateAccueil.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1533">
+              <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,24 +58,19 @@
       <file leaf-file-name="ControleurAccueil.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Controleur/ControleurAccueil.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
+            <state relative-caret-position="134">
               <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modele/slider.php">
+      <file leaf-file-name="ajouterNouveauProfil.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="60" column="37" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
-              <folding>
-                <marker date="1538990867237" expanded="true" signature="1360:1400" ph="select count... slider" />
-                <marker date="1538990867237" expanded="true" signature="1771:1805" ph="update slide... " />
-                <marker date="1538990867237" expanded="true" signature="1889:2001" ph="insert into slider... " />
-                <marker date="1538990867237" expanded="true" signature="2609:2658" ph="DELETE FROM " />
-              </folding>
+            <state relative-caret-position="663">
+              <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,47 +78,21 @@
       <file leaf-file-name="ajouterNouveauSlider.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" column="10" lean-forward="true" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+            <state relative-caret-position="425">
+              <caret line="43" column="6" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="43" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profil.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modele/profil.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="59" column="72" lean-forward="true" selection-start-line="59" selection-start-column="72" selection-end-line="59" selection-end-column="72" />
-              <folding>
-                <marker date="1538991313988" expanded="true" signature="1929:1969" ph="select count... profil" />
-                <marker date="1538991313988" expanded="true" signature="2265:2349" ph="insert into profil... " />
-                <marker date="1538991313988" expanded="true" signature="2857:2906" ph="DELETE FROM " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ControleurImage.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Controleur/ControleurImage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ControleurAdmin.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ControleurAdmin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Controleur/ControleurAdmin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="838">
-              <caret line="742" column="145" lean-forward="false" selection-start-line="742" selection-start-column="145" selection-end-line="742" selection-end-column="145" />
+            <state relative-caret-position="7350">
+              <caret line="769" column="72" lean-forward="false" selection-start-line="769" selection-start-column="72" selection-end-line="769" selection-end-column="72" />
               <folding>
-                <element signature="e#23805#25384#0#PHP" expanded="false" />
-                <element signature="e#24425#24890#0#PHP" expanded="false" />
-                <element signature="e#24664#24890#0#PHP" expanded="false" />
-                <element signature="e#24949#25110#0#PHP" expanded="false" />
+                <element signature="e#24094#24320#0#PHP" expanded="false" />
+                <element signature="e#24379#24540#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -191,43 +175,43 @@
         <option value="$PROJECT_DIR$/Framework/Requete.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauMessage.php" />
         <option value="$PROJECT_DIR$/Modele/tournoi.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/modifierActu.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauActu.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauContact.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauEntourage.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauGolf.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php" />
         <option value="$PROJECT_DIR$/Vue/template.php" />
         <option value="$PROJECT_DIR$/Vue/Profil/listeProfil.php" />
         <option value="$PROJECT_DIR$/Vue/Entourage/listeEntourage.php" />
         <option value="$PROJECT_DIR$/Vue/Tournoi/listeTournoi.php" />
         <option value="$PROJECT_DIR$/Vue/Golf/listeGolf.php" />
         <option value="$PROJECT_DIR$/Vue/Golf/index.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauTournoi.php" />
         <option value="$PROJECT_DIR$/Modele/image.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImage.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImageUpload.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/uploadImage.php" />
         <option value="$PROJECT_DIR$/Modele/Utilisateur.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/voirImage.php" />
         <option value="$PROJECT_DIR$/Controleur/ControleurImage.php" />
-        <option value="$PROJECT_DIR$/Vue/templateAdmin.php" />
         <option value="$PROJECT_DIR$/Vue/Image/index.php" />
         <option value="$PROJECT_DIR$/Modele/actu.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/index.php" />
         <option value="$PROJECT_DIR$/Vue/Slider/index.php" />
         <option value="$PROJECT_DIR$/Controleur/ControleurSlider.php" />
         <option value="$PROJECT_DIR$/Vue/Slider/listeSlider.php" />
-        <option value="$PROJECT_DIR$/Controleur/ControleurAdmin.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/voirSlider.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/modifierSlider.php" />
         <option value="$PROJECT_DIR$/Vue/templateAccueil.php" />
         <option value="$PROJECT_DIR$/Vue/Slider/dfnbhfg.php" />
-        <option value="$PROJECT_DIR$/Vue/Accueil/index.php" />
         <option value="$PROJECT_DIR$/Modele/slider.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php" />
         <option value="$PROJECT_DIR$/Modele/profil.php" />
         <option value="$PROJECT_DIR$/Controleur/ControleurAccueil.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauContact.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauEntourage.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauGolf.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImage.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauTournoi.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauActu.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/modifierActu.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/modifierSlider.php" />
+        <option value="$PROJECT_DIR$/Vue/templateAdmin.php" />
+        <option value="$PROJECT_DIR$/Controleur/ControleurAdmin.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImageUpload.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/uploadImage.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/index.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php" />
+        <option value="$PROJECT_DIR$/Vue/Accueil/index.php" />
       </list>
     </option>
   </component>
@@ -296,11 +280,6 @@
               <item name="P5" type="b2602c69:ProjectViewProjectNode" />
               <item name="P5" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Modele" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="P5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P5" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Upload" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="P5" type="b2602c69:ProjectViewProjectNode" />
@@ -409,12 +388,20 @@
       <workItem from="1538736133835" duration="7757000" />
       <workItem from="1538915661474" duration="2305000" />
       <workItem from="1538984303881" duration="4283000" />
-      <workItem from="1539162296242" duration="183000" />
+      <workItem from="1539162296242" duration="18828000" />
     </task>
+    <task id="LOCAL-00001" summary="Les boutons du slider marchent">
+      <created>1539162496788</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539162496788</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235917000" />
+    <option name="totallyTimeSpent" value="254562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -422,7 +409,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17004265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -448,6 +435,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Les boutons du slider marchent" />
     <option name="LAST_COMMIT_MESSAGE" value="Les boutons du slider marchent" />
   </component>
@@ -458,41 +446,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/modifierEntourage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauTournoi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="48" lean-forward="false" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Golf/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Config/prod.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Config/dev.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Framework/Configuration.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -576,45 +529,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauContact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modele/image.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="60" column="32" lean-forward="false" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vue/Image/upload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="44" column="6" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="44" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauActu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="96" lean-forward="true" selection-start-line="18" selection-start-column="96" selection-end-line="18" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauImageUpload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="110" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="110" />
         </state>
       </provider>
     </entry>
@@ -655,20 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/templateAdmin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="103" column="45" lean-forward="false" selection-start-line="103" selection-start-column="45" selection-end-line="103" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/uploadImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vue/Image/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -700,53 +604,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Slider/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Controleur/ControleurSlider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vue/Admin/voirActu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Slider/listeSlider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5015">
-          <caret line="295" column="47" lean-forward="true" selection-start-line="295" selection-start-column="8" selection-end-line="295" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/voirSlider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/modifierSlider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -765,24 +626,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/templateAccueil.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vue/Slider/dfnbhfg.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1547">
           <caret line="91" column="138" lean-forward="false" selection-start-line="91" selection-start-column="124" selection-end-line="91" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Controleur/ControleurImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -800,14 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="10" lean-forward="true" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Modele/profil.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -820,31 +659,205 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Accueil/index.php">
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauContact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="108" lean-forward="false" selection-start-line="6" selection-start-column="108" selection-end-line="6" selection-end-column="108" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Controleur/ControleurAccueil.php">
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauEntourage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="110" lean-forward="false" selection-start-line="7" selection-start-column="110" selection-end-line="7" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauGolf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="105" lean-forward="false" selection-start-line="7" selection-start-column="105" selection-end-line="7" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="106" lean-forward="false" selection-start-line="11" selection-start-column="106" selection-end-line="11" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauTournoi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="7" column="108" lean-forward="false" selection-start-line="7" selection-start-column="108" selection-end-line="7" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/voirSlider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Slider/listeSlider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Slider/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/modifierActu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modele/image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="60" column="32" lean-forward="false" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+          <folding>
+            <marker date="1537265252755" expanded="true" signature="1265:1303" ph="select count... image" />
+            <marker date="1537265252755" expanded="true" signature="1579:1641" ph="insert into image... " />
+            <marker date="1537265252755" expanded="true" signature="2062:2109" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controleur/ControleurImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controleur/ControleurSlider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/modifierSlider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/templateAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="71" column="13" lean-forward="false" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+          <folding>
+            <marker date="1539339583919" expanded="false" signature="4397:4424" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauActu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauImageUpload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/uploadImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="417" column="3" lean-forward="false" selection-start-line="417" selection-start-column="3" selection-end-line="417" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="43" column="6" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="43" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Controleur/ControleurAdmin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="742" column="145" lean-forward="false" selection-start-line="742" selection-start-column="145" selection-end-line="742" selection-end-column="145" />
+        <state relative-caret-position="7350">
+          <caret line="769" column="72" lean-forward="false" selection-start-line="769" selection-start-column="72" selection-end-line="769" selection-end-column="72" />
           <folding>
-            <element signature="e#23805#25384#0#PHP" expanded="false" />
-            <element signature="e#24425#24890#0#PHP" expanded="false" />
-            <element signature="e#24664#24890#0#PHP" expanded="false" />
-            <element signature="e#24949#25110#0#PHP" expanded="false" />
+            <element signature="e#24094#24320#0#PHP" expanded="false" />
+            <element signature="e#24379#24540#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controleur/ControleurAccueil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/templateAccueil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Accueil/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+          <folding>
+            <element signature="e#3726#4464#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
