@@ -30,16 +30,56 @@
 
     <!-- Tinymce -->
 
-    <script src="Js/tinymce/js/tinymce/tinymce.min.js"></script>
+
+    <!--plugins: 'print preview fullpage  searchreplace autolink directionality  visualblocks visualchars fullscreen image link media template codesample table charmap hr pagebreak nonbreaking anchor toc insertdatetime advlist lists textcolor wordcount  imagetools  contextmenu colorpicker textpattern help',
+    toolbar1: 'formatselect | bold italic strikethrough forecolor backcolor | link | alignleft aligncenter alignright alignjustify  | numlist bullist outdent indent  | removeformat | image code',-->
+
+    <script src="Js/Tiny/tinymce/js/tinymce/tinymce.min.js"></script>
     <script>
 
         tinymce.init({
             selector: '#mytextarea',
             height: 500,
             theme: 'modern',
-            plugins: 'print preview fullpage  searchreplace autolink directionality  visualblocks visualchars fullscreen image link media template codesample table charmap hr pagebreak nonbreaking anchor toc insertdatetime advlist lists textcolor wordcount  imagetools  contextmenu colorpicker textpattern help',
-            toolbar1: 'formatselect | bold italic strikethrough forecolor backcolor | link | alignleft aligncenter alignright alignjustify  | numlist bullist outdent indent  | removeformat',
-            image_advtab: true,
+            plugins: 'image code',
+            toolbar:'undo redo | image code',
+
+            images_upload_url: 'http://localhost/P5/index.php?controleur=admin&action=upload',
+
+            // override default upload handler to simulate successful upload
+            images_upload_handler: function (blobInfo, success, failure) {
+                var xhr, formData;
+
+                xhr = new XMLHttpRequest();
+                xhr.withCredentials = false;
+                xhr.open('POST', 'upload.php'); //MEttre la route cree
+
+                xhr.onload = function() {
+                    var json;
+
+                    if (xhr.status != 200) {
+                        failure('HTTP Error: ' + xhr.status);
+                        return;
+                    }
+
+                    json = JSON.parse(xhr.responseText);
+
+                    if (!json || typeof json.location != 'string') {
+                        failure('Invalid JSON: ' + xhr.responseText);
+                        return;
+                    }
+
+                    success(json.location);
+                };
+
+                formData = new FormData();
+                formData.append('file', blobInfo.blob(), blobInfo.filename());
+
+                xhr.send(formData);
+            },
+
+
+//            image_advtab: true,
             templates: [
                 { title: 'Test template 1', content: 'Test 1' },
                 { title: 'Test template 2', content: 'Test 2' }
@@ -70,6 +110,12 @@
 
 </head>
 <body style=" ">
+<br>
+<br><br>
+Le test
+<textarea id="mytextarea"></textarea >
+
+
 <div class="header">
     <section id="header" class="appear">
 
@@ -105,7 +151,6 @@
 </div>
 
 -->
-
 
 
 <div class="container" style="margin-top: 5px;">
@@ -145,7 +190,7 @@
     </div>
 
 </section>
-
+<a href="#header" class="scrollup"><i class="fa fa-chevron-up"></i></a>
 
 <script src="MC/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 <script src="MC/js/jquery.js"></script>

@@ -5,23 +5,107 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d97ae73-f3f2-4c0f-ad29-ea4428f3c5a1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upload/Imagecad93a1a60203df27227bfe9c946b3c8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImageUpload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/LICENSE.TXT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/jquery.tinymce.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/langs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/advlist/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/anchor/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/autolink/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/autosave/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/charmap/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/code/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/codesample/css/prism.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/codesample/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/directionality/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-cool.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-cry.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-frown.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-wink.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/img/smiley-yell.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/help/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/help/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/hr/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/image/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/imagetools/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/importcss/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/link/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/lists/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/media/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/paste/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/preview/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/print/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/save/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/table/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/template/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/toc/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/visualblocks/css/visualblocks.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/content.inline.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/content.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/content.mobile.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-mobile.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/img/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/img/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/img/object.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/img/trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/skin.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/skins/lightgray/skin.mobile.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/themes/inlite/theme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/themes/mobile/theme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/themes/modern/theme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Js/tinymce/js/tinymce/tinymce.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MC/img/12.jpg" afterPath="$PROJECT_DIR$/MC/img/12.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controleur/ControleurAdmin.php" afterPath="$PROJECT_DIR$/Controleur/ControleurAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controleur/ControleurImage.php" afterPath="$PROJECT_DIR$/Controleur/ControleurImage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Js/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/Js/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MC/css/style.css" afterPath="$PROJECT_DIR$/MC/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MC/js/main.js" afterPath="$PROJECT_DIR$/MC/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Accueil/index.php" afterPath="$PROJECT_DIR$/Vue/Accueil/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauActu.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauActu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauContact.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauContact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauEntourage.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauEntourage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauGolf.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauGolf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImage.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauTournoi.php" afterPath="$PROJECT_DIR$/Vue/Admin/ajouterNouveauTournoi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/index.php" afterPath="$PROJECT_DIR$/Vue/Admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/modifierActu.php" afterPath="$PROJECT_DIR$/Vue/Admin/modifierActu.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/modifierSlider.php" afterPath="$PROJECT_DIR$/Vue/Admin/modifierSlider.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/Admin/uploadImage.php" afterPath="$PROJECT_DIR$/Vue/Admin/uploadImage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/template.php" afterPath="$PROJECT_DIR$/Vue/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/templateAccueil.php" afterPath="$PROJECT_DIR$/Vue/templateAccueil.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vue/templateAdmin.php" afterPath="$PROJECT_DIR$/Vue/templateAdmin.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,53 +117,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Vue/Accueil/index.php">
+      <file leaf-file-name="templateAdmin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vue/templateAdmin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+            <state relative-caret-position="374">
+              <caret line="46" column="94" lean-forward="false" selection-start-line="46" selection-start-column="94" selection-end-line="46" selection-end-column="94" />
               <folding>
-                <element signature="e#3726#4464#0#HTML" expanded="false" />
+                <marker date="1540809758795" expanded="false" signature="5727:5754" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templateAccueil.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vue/templateAccueil.php">
+      <file leaf-file-name="upload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue/upload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1533">
-              <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ControleurAccueil.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Controleur/ControleurAccueil.php">
+      <file leaf-file-name="ControleurImage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controleur/ControleurImage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="1394">
+              <caret line="89" column="0" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="89" selection-end-column="0" />
+              <folding>
+                <element signature="e#1081#1456#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Routeur.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/Routeur.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajouterNouveauProfil.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ajouterNouveauSlider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="43" column="6" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="43" selection-end-column="6" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,11 +174,12 @@
       <file leaf-file-name="ControleurAdmin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Controleur/ControleurAdmin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7350">
-              <caret line="769" column="72" lean-forward="false" selection-start-line="769" selection-start-column="72" selection-end-line="769" selection-end-column="72" />
+            <state relative-caret-position="14552">
+              <caret line="875" column="0" lean-forward="false" selection-start-line="875" selection-start-column="0" selection-end-line="875" selection-end-column="0" />
               <folding>
-                <element signature="e#24094#24320#0#PHP" expanded="false" />
-                <element signature="e#24379#24540#0#PHP" expanded="false" />
+                <element signature="e#24228#24454#0#PHP" expanded="false" />
+                <element signature="e#24513#24674#0#PHP" expanded="false" />
+                <element signature="e#27341#27716#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -100,15 +187,15 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>jpg</find>
-      <find>BIL_ID</find>
-      <find>titre</find>
-      <find>idContenu</find>
-      <find>Billet</find>
-      <find>id</find>
-      <find>billet</find>
       <find>type</find>
       <find>exp</find>
       <find>contenu</find>
@@ -131,6 +218,14 @@
       <find>mysql_fetch_assoc</find>
       <find>carousel-inner</find>
       <find>active</find>
+      <find>parallax</find>
+      <find>.container</find>
+      <find>testimonials-3</find>
+      <find>fichier_a_uploader</find>
+      <find>element.style</find>
+      <find>.js</find>
+      <find>body</find>
+      <find>style=&quot;he</find>
     </findStrings>
     <replaceStrings>
       <replace>titre</replace>
@@ -161,12 +256,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Vue/Admin/voirMessage.php" />
-        <option value="$PROJECT_DIR$/Modele/contact.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/dvdc.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/voirContact.php" />
-        <option value="$PROJECT_DIR$/MC/contactform/contactform.js" />
-        <option value="$PROJECT_DIR$/Vue/Contact/index.php" />
         <option value="$PROJECT_DIR$/Controleur/ControleurContact.php" />
         <option value="$PROJECT_DIR$/Vue/Upload/index.php" />
         <option value="$PROJECT_DIR$/Vue/Upload/upload.php" />
@@ -175,7 +264,6 @@
         <option value="$PROJECT_DIR$/Framework/Requete.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauMessage.php" />
         <option value="$PROJECT_DIR$/Modele/tournoi.php" />
-        <option value="$PROJECT_DIR$/Vue/template.php" />
         <option value="$PROJECT_DIR$/Vue/Profil/listeProfil.php" />
         <option value="$PROJECT_DIR$/Vue/Entourage/listeEntourage.php" />
         <option value="$PROJECT_DIR$/Vue/Tournoi/listeTournoi.php" />
@@ -184,14 +272,12 @@
         <option value="$PROJECT_DIR$/Modele/image.php" />
         <option value="$PROJECT_DIR$/Modele/Utilisateur.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/voirImage.php" />
-        <option value="$PROJECT_DIR$/Controleur/ControleurImage.php" />
         <option value="$PROJECT_DIR$/Vue/Image/index.php" />
         <option value="$PROJECT_DIR$/Modele/actu.php" />
         <option value="$PROJECT_DIR$/Vue/Slider/index.php" />
         <option value="$PROJECT_DIR$/Controleur/ControleurSlider.php" />
         <option value="$PROJECT_DIR$/Vue/Slider/listeSlider.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/voirSlider.php" />
-        <option value="$PROJECT_DIR$/Vue/templateAccueil.php" />
         <option value="$PROJECT_DIR$/Vue/Slider/dfnbhfg.php" />
         <option value="$PROJECT_DIR$/Modele/slider.php" />
         <option value="$PROJECT_DIR$/Modele/profil.php" />
@@ -204,14 +290,23 @@
         <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauActu.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/modifierActu.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/modifierSlider.php" />
-        <option value="$PROJECT_DIR$/Vue/templateAdmin.php" />
-        <option value="$PROJECT_DIR$/Controleur/ControleurAdmin.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauImageUpload.php" />
-        <option value="$PROJECT_DIR$/Vue/Admin/uploadImage.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/index.php" />
         <option value="$PROJECT_DIR$/Vue/Admin/ajouterNouveauProfil.php" />
+        <option value="$PROJECT_DIR$/Js/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/MC/css/style.css" />
+        <option value="$PROJECT_DIR$/MC/js/main.js" />
+        <option value="$PROJECT_DIR$/Vue/Admin/uploadImage.php" />
+        <option value="$PROJECT_DIR$/Vue/Admin/modifierSlider.php" />
         <option value="$PROJECT_DIR$/Vue/Accueil/index.php" />
+        <option value="$PROJECT_DIR$/Vue/template.php" />
+        <option value="$PROJECT_DIR$/Js/Tiny/upload.php" />
+        <option value="$PROJECT_DIR$/Js/Tiny/index.html" />
+        <option value="$PROJECT_DIR$/Vue/templateAccueil.php" />
+        <option value="$PROJECT_DIR$/Controleur/ControleurImage.php" />
+        <option value="$PROJECT_DIR$/Vue/upload.php" />
+        <option value="$PROJECT_DIR$/Controleur/ControleurAdmin.php" />
+        <option value="$PROJECT_DIR$/Vue/templateAdmin.php" />
       </list>
     </option>
   </component>
@@ -223,12 +318,14 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="10" />
+    <option name="y" value="7" />
+    <option name="width" value="935" />
     <option name="height" value="1066" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -274,16 +371,6 @@
             <path>
               <item name="P5" type="b2602c69:ProjectViewProjectNode" />
               <item name="P5" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="MC" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="P5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P5" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Modele" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="P5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P5" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Vue" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -292,37 +379,26 @@
               <item name="Vue" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Accueil" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="P5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P5" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Vue" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="P5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P5" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Vue" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Slider" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\P5\Vue" />
       <recent name="C:\wamp64\www\P5\Vue\Slider" />
       <recent name="C:\wamp64\www\P5\Vue\Admin" />
       <recent name="C:\wamp\www\P5\Controleur" />
       <recent name="C:\wamp\www\P5\Vue\Admin" />
-      <recent name="C:\wamp\www\P5\Modele" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -388,7 +464,15 @@
       <workItem from="1538736133835" duration="7757000" />
       <workItem from="1538915661474" duration="2305000" />
       <workItem from="1538984303881" duration="4283000" />
-      <workItem from="1539162296242" duration="18828000" />
+      <workItem from="1539162296242" duration="22669000" />
+      <workItem from="1539592913627" duration="10151000" />
+      <workItem from="1539620137038" duration="6806000" />
+      <workItem from="1539675981277" duration="3494000" />
+      <workItem from="1539939754713" duration="7208000" />
+      <workItem from="1540194608885" duration="4229000" />
+      <workItem from="1540718270944" duration="2692000" />
+      <workItem from="1540802308538" duration="4331000" />
+      <workItem from="1541258125518" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="Les boutons du slider marchent">
       <created>1539162496788</created>
@@ -397,28 +481,35 @@
       <option name="project" value="LOCAL" />
       <updated>1539162496788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Profil image de la page d'accueil">
+      <created>1539360327871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539360327871</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254562000" />
+    <option name="totallyTimeSpent" value="297502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17004265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31556502" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -437,7 +528,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Les boutons du slider marchent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Les boutons du slider marchent" />
+    <MESSAGE value="Profil image de la page d'accueil" />
+    <option name="LAST_COMMIT_MESSAGE" value="Profil image de la page d'accueil" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -446,133 +538,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Framework/Configuration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Vue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js/tinymce/js/tinymce/jquery.tinymce.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/link/plugin.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MC/js/validate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Modele.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Controleur.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js/tinymce/js/tinymce/tinymce.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" column="60" lean-forward="true" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Routeur.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Session.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="967">
-          <caret line="62" column="37" lean-forward="true" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Image/upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="44" column="6" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="44" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Controleur/ControleurActu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modele/tournoi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="59" column="100" lean-forward="true" selection-start-line="59" selection-start-column="100" selection-end-line="59" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modele/Utilisateur.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Controleur/ControleurProfil.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="82" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/voirImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vue/Image/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -584,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,15 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="75" column="37" lean-forward="true" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="37" />
-          <folding>
-            <marker date="1538305172693" expanded="true" signature="776:810" ph="select count... actu" />
-            <marker date="1538305172693" expanded="true" signature="788:810" ph="SELECT COUNT... actu" />
-            <marker date="1538305172693" expanded="true" signature="2208:2242" ph="select count... actu" />
-            <marker date="1538305172693" expanded="true" signature="3313:3347" ph="select count... actu" />
-            <marker date="1538305172693" expanded="true" signature="4595:4631" ph="select count... actu" />
-            <marker date="1538305172693" expanded="true" signature="4931:5033" ph="insert into actu... " />
-            <marker date="1538305172693" expanded="true" signature="5705:5750" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -612,13 +567,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templateAccueil.php" />
-    <entry file="file://$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/advlist/plugin.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2419" lean-forward="false" selection-start-line="0" selection-start-column="2419" selection-end-line="0" selection-end-column="2419" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Js/tinymce/js/tinymce/plugins/advlist/plugin.min.js" />
     <entry file="file://$PROJECT_DIR$/MC/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15878">
@@ -630,20 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1547">
           <caret line="91" column="138" lean-forward="false" selection-start-line="91" selection-start-column="124" selection-end-line="91" selection-end-column="138" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modele/slider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="60" column="37" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
-          <folding>
-            <marker date="1538990867237" expanded="true" signature="1360:1400" ph="select count... slider" />
-            <marker date="1538990867237" expanded="true" signature="1771:1805" ph="update slide... " />
-            <marker date="1538990867237" expanded="true" signature="1889:2001" ph="insert into slider... " />
-            <marker date="1538990867237" expanded="true" signature="2609:2658" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,11 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="59" column="72" lean-forward="true" selection-start-line="59" selection-start-column="72" selection-end-line="59" selection-end-column="72" />
-          <folding>
-            <marker date="1538991313988" expanded="true" signature="1929:1969" ph="select count... profil" />
-            <marker date="1538991313988" expanded="true" signature="2265:2349" ph="insert into profil... " />
-            <marker date="1538991313988" expanded="true" signature="2857:2906" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="108" lean-forward="false" selection-start-line="6" selection-start-column="108" selection-end-line="6" selection-end-column="108" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,7 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="110" lean-forward="false" selection-start-line="7" selection-start-column="110" selection-end-line="7" selection-end-column="110" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="105" lean-forward="false" selection-start-line="7" selection-start-column="105" selection-end-line="7" selection-end-column="105" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="106" lean-forward="false" selection-start-line="11" selection-start-column="106" selection-end-line="11" selection-end-column="106" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="7" column="108" lean-forward="false" selection-start-line="7" selection-start-column="108" selection-end-line="7" selection-end-column="108" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="67" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,27 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modele/image.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="60" column="32" lean-forward="false" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
-          <folding>
-            <marker date="1537265252755" expanded="true" signature="1265:1303" ph="select count... image" />
-            <marker date="1537265252755" expanded="true" signature="1579:1641" ph="insert into image... " />
-            <marker date="1537265252755" expanded="true" signature="2062:2109" ph="DELETE FROM " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Controleur/ControleurImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,25 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="661">
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/modifierSlider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/templateAdmin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="71" column="13" lean-forward="false" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
-          <folding>
-            <marker date="1539339583919" expanded="false" signature="4397:4424" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -781,39 +663,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauImageUpload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vue/Admin/uploadImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauImageUpload.php" />
     <entry file="file://$PROJECT_DIR$/Vue/Admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="715">
           <caret line="417" column="3" lean-forward="false" selection-start-line="417" selection-start-column="3" selection-end-line="417" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Vue/Admin/ajouterNouveauSlider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="731">
           <caret line="43" column="6" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="43" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,43 +685,192 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Controleur/ControleurAdmin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7350">
-          <caret line="769" column="72" lean-forward="false" selection-start-line="769" selection-start-column="72" selection-end-line="769" selection-end-column="72" />
-          <folding>
-            <element signature="e#24094#24320#0#PHP" expanded="false" />
-            <element signature="e#24379#24540#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Controleur/ControleurAccueil.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="884">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../P51/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10217">
+          <caret line="601" column="0" lean-forward="false" selection-start-line="601" selection-start-column="0" selection-end-line="602" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MC/js/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MC/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1887">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/uploadImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modele/image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="60" column="32" lean-forward="false" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modele/slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="60" column="37" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Admin/modifierSlider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MC/js/jquery.isotope.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js/tinymce/js/tinymce/tinymce.min.js" />
     <entry file="file://$PROJECT_DIR$/Vue/templateAccueil.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1533">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-662">
+          <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="125" column="50" lean-forward="true" selection-start-line="125" selection-start-column="50" selection-end-line="125" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MC/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js/Tiny/upload.php" />
+    <entry file="file://$PROJECT_DIR$/Js/Tiny/index.html" />
+    <entry file="file://$PROJECT_DIR$/../Tiny/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Vue/Accueil/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        <state relative-caret-position="4063">
+          <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/templateAccueil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MC/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Routeur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controleur/ControleurImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="89" column="0" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="89" selection-end-column="0" />
           <folding>
-            <element signature="e#3726#4464#0#HTML" expanded="false" />
+            <element signature="e#1081#1456#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controleur/ControleurAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14552">
+          <caret line="875" column="0" lean-forward="false" selection-start-line="875" selection-start-column="0" selection-end-line="875" selection-end-column="0" />
+          <folding>
+            <element signature="e#24228#24454#0#PHP" expanded="false" />
+            <element signature="e#24513#24674#0#PHP" expanded="false" />
+            <element signature="e#27341#27716#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js/Tiny/tinymce/js/tinymce/plugins/image/plugin.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/templateAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="46" column="94" lean-forward="false" selection-start-line="46" selection-start-column="94" selection-end-line="46" selection-end-column="94" />
+          <folding>
+            <marker date="1540809758795" expanded="false" signature="5727:5754" ph="..." />
           </folding>
         </state>
       </provider>

@@ -466,12 +466,12 @@ padding-top: 30px;
 ============================= */
 
 #parallax1{	
-	background-image: url(../img/parallax/4.jpg);
+	background-image: url(../img/parallax/para.jpg);
 	/*height:500px;*/
 	height:100px;
 }
 #parallax2{	
-	background-image: url(../img/parallax/2.jpg);
+	background-image: url(../img/parallax/para2.jpg);
 	height:100px;
 }
 #testimonials{	

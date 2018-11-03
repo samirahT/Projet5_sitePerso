@@ -710,9 +710,12 @@ class ControleurAdmin extends ControleurSecurise
                 // On verifie l'extension du fichier
                 if(in_array(strtolower($extension),$tabExt))
                 {
+                    //On verifie
+                    //if($_FILES['fichier']['error'] == 1){echo "le fichier n'existe pas";}
                     $temp = $_FILES['fichier']['tmp_name'];
-                    // On recupere les dimensions du fichier
-                    $infosImg = getimagesize($temp);
+
+                        // On recupere les dimensions du fichier
+                        $infosImg = getimagesize($temp);
 
                         // On verifie les dimensions et taille de l'image
                         if(($infosImg[0] <= WIDTH_MAX) && ($infosImg[1] <= HEIGHT_MAX) && (filesize($_FILES['fichier']['tmp_name']) <= MAX_SIZE))
@@ -765,7 +768,7 @@ class ControleurAdmin extends ControleurSecurise
         var_dump($temp);
         var_dump($infosImg[2]);*/
 
-var_dump($ajoutMode);
+
 
         $this->genererVue(array( "message" => $message , "ajoutMode" => $ajoutMode), null, 'Vue/templateAdmin.php');
     }
@@ -811,6 +814,63 @@ var_dump($ajoutMode);
 
         $this->image->supprimer($idImage);
         $this->rediriger("admin");
+
+    }
+
+
+
+
+    //////////////////////////////////////////////
+    ///
+    ///
+    public function upload()
+    {
+        $message= "";
+        // Allowed origins to upload images
+        $accepted_origins = array("http://localhost", "http://samirah-tachet.com");
+
+        // Images upload path
+        $imageFolder = "images/";
+
+        reset($_FILES); // on pointe sur le premier element du tableau des elements telechargés
+        $temp = current($_FILES);//On mets dans temp le premier element
+        if(is_uploaded_file($temp['tmp_name'])){ //si le fichier est telechargé
+            if(isset($_SERVER['HTTP_ORIGIN'])){  // origine server
+                if(in_array($_SERVER['HTTP_ORIGIN'], $accepted_origins)){ //on teste origine
+                    header('Access-Control-Allow-Origin: ' . $_SERVER['HTTP_ORIGIN']);
+                }else{
+                    header("HTTP/1.1 403 Origin Denied");
+                    return;
+                }
+            }
+
+            // on teste le nom du fichier
+            if(preg_match("/([^\w\s\d\-_~,;:\[\]\(\).])|([\.]{2,})/", $temp['name'])){
+                header("HTTP/1.1 400 Invalid file name.");
+                $message = "HTTP/1.1 400 Invalid file name.";
+                return;
+            }
+
+            // on verifie l'extension
+            if(!in_array(strtolower(pathinfo($temp['name'], PATHINFO_EXTENSION)), array("gif", "jpg", "png"))){
+                header("HTTP/1.1 400 Invalid extension.");
+                $message = "HTTP/1.1 400 Invalid extension.";
+                return;
+            }
+
+            // Accept upload if there was no origin, or if it is an accepted origin
+            $filetowrite = $imageFolder . $temp['name'];
+            move_uploaded_file($temp['tmp_name'], $filetowrite);
+
+            // Respond to the successful upload with JSON.
+            echo json_encode(array('location' => $filetowrite));
+            $message = "successful upload with JSON";
+        } else {
+            // Notify editor that the upload failed
+            header("HTTP/1.1 500 Server Error");
+            $message = "HTTP/1.1 500 Server Error";
+        }
+
 
     }
 

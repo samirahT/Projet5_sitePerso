@@ -1,4 +1,4 @@
-
+<!--/#slider-->
 <div class="slider">
     <div id="about-slider">
         <div id="carousel-slider" class="carousel slide" data-ride="carousel">
@@ -50,89 +50,110 @@
     </div>
     <!--/#about-slider-->
 </div>
-<!--/#slider-->
 
 
-
-
-
-<!--/container-->
+<!--/Profil-->
 
 <div class="container">
 
     <div class="starter-template" style="padding-top: 5px;">
 
-<!--about-->
-<section id="section-about" ">
+        <!--about-->
+        <section id="section-about" >
 
 
-            <div class="row mar-bot40">
-                <div class="col-md-offset-3 col-md-6">
-                    <div class="title">
-                        <div class="wow bounceIn">
+                    <div class="row mar-bot40">
+                        <div class="col-md-offset-3 col-md-6">
+                            <div class="title">
+                                <div class="wow bounceIn">
 
-                            <h2 class="section-heading animated" data-animation="bounceInUp">Mon profil</h2>
+                                    <h2 class="section-heading animated" data-animation="bounceInUp">Mon profil</h2>
 
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" >
+
+                        <div >
+                            <div class="col-lg-6 ">
+                                <img alt="" class="img-responsive" src="<?php echo $profil['image'] ;?>" width="100%" height="350" />
+                                <!--<div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
+                                    <div class="slides" data-group="slides">
+                                        <ul>
+
+                                            <div class="slide-body" data-group="slide">
+                                             <?php /*foreach ($profils as $pro):*/?>
+
+                                                    <li><img alt="" class="img-responsive" src="<?php /*echo  (isset($pro['image'])?($pro['image']):"" );*/?>" width="100%" height="350" /></li>
+                                             <?php /*endforeach;
+                                                */?>
+
+        <!--                                                <li><img alt="" class="img-responsive" src="--><?php /*//echo $profil['image'] ;*/?><!--" width="100%" height="350" /></li>-->
+                                                        <!--<li><img alt="" class="img-responsive" src="MC/img/10.jpg" width="100%" height="350" /></li>
+                                                        <li><img alt="" class="img-responsive" src="MC/img/11.jpg" width="100%" height="350" /></li>
+        -->
+                                          <!--  </div>
+                                        </ul>
+                                        <a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
+                                        <a class="slider-control right" href="#" data-jump="next"><i class="fa fa-angle-right fa-2x"></i></a>
+
+                                    </div>
+                                </div>-->-->
+                            </div>
+                            <!--/PROFIL-->
+                            <div class="col-lg-6 ">
+
+                                <?php
+                                    $this->titre = "Blog - " . $this->nettoyer($profil['titre']); ?>
+                                <section>
+                                    <header>
+                                        <h2 class="titreProfil"><?= $this->nettoyer($profil['titre']) ?></h2>
+
+                                    </header>
+                                    <p><?= $profil['descr'] ?></p>
+
+                                </section>
+                                <hr />
+                            </div>
 
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="row" >
 
-                <div >
-                    <div class="col-lg-6 ">
-                        <img alt="" class="img-responsive" src="<?php echo $profil['image'] ;?>" width="100%" height="350" />
-                        <!--<div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
-                            <div class="slides" data-group="slides">
-                                <ul>
 
-                                    <div class="slide-body" data-group="slide">
-                                     <?php /*foreach ($profils as $pro):*/?>
 
-                                            <li><img alt="" class="img-responsive" src="<?php /*echo  (isset($pro['image'])?($pro['image']):"" );*/?>" width="100%" height="350" /></li>
-                                     <?php /*endforeach;
-                                        */?>
 
-<!--                                                <li><img alt="" class="img-responsive" src="--><?php /*//echo $profil['image'] ;*/?><!--" width="100%" height="350" /></li>-->
-                                                <!--<li><img alt="" class="img-responsive" src="MC/img/10.jpg" width="100%" height="350" /></li>
-                                                <li><img alt="" class="img-responsive" src="MC/img/11.jpg" width="100%" height="350" /></li>
--->
-                                  <!--  </div>
-                                </ul>
-                                <a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
-                                <a class="slider-control right" href="#" data-jump="next"><i class="fa fa-angle-right fa-2x"></i></a>
+        </section>
+        <!--/about-->
+    </div>
+</div>
 
-                            </div>
-                        </div>-->-->
-                    </div>
-                    <!--/PROFIL-->
-                    <div class="col-lg-6 ">
 
-                        <?php
-                            $this->titre = "Blog - " . $this->nettoyer($profil['titre']); ?>
-                        <section>
-                            <header>
-                                <h2 class="titreProfil"><?= $this->nettoyer($profil['titre']) ?></h2>
-
-                            </header>
-                            <p><?= $profil['descr'] ?></p>
-
-                        </section>
-                        <hr />
+<section id="parallax1" class="section" data-stellar-background-ratio="0.5">
+    <!--<div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="align-center">
+                    <div class="testimonial pad-top40 pad-bot40 clearfix">
+                        <h5>
+                            Nunc velit risus, dapibus non interdum quis, suscipit nec dolor. Vivamus tempor tempus mauris vitae fermentum. In vitae nulla lacus. Sed sagittis tortor vel arcu sollicitudin nec tincidunt metus suscipit.Nunc velit risus, dapibus non interdum.
+                        </h5>
+                        <br/>
+                        <span class="author">&mdash; Jouse Manuel <a href="#">www.jouse-manuel.com</a></span>
                     </div>
 
                 </div>
             </div>
+        </div>
 
-
-
+    </div>-->
 
 </section>
-<!--/about-->
+
 
 <!--/ ACTUS-->
-        <section  id="actus"   class="line-section line-center">
+<section  id="actus"   class="line-section line-center">
             <div class="container pad-top50">
                 <div class="row mar-bot10 ">
                     <div class="col-md-offset-3 col-md-6">
@@ -227,9 +248,11 @@
                 </div>
 
             </div>
-        </section>
+</section>
 
 
+<section id="parallax2" class="section" data-stellar-background-ratio="0.5">
+    </section>
 
 <!-- contact -->
 <section id="section-contact" class="section appear clearfix">
@@ -286,8 +309,6 @@
     </div>
 </section>
 
-    </div>
-</div>
 
 
 

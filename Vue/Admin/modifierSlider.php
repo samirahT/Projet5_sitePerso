@@ -30,7 +30,9 @@
             {
                 ?>
 
-                <input type="radio" name="image"  value="<?php echo  "/P5/Upload/".$galerie ?>">
+                <input type="radio" name="image" <?php
+                $im = "/P5/Upload/".$galerie;
+                echo (($this->nettoyer($slider['image'])== $im)?"checked":""); ?> value="<?php echo  $im ?>">
                 <img src="<?php echo "/P5/Upload/".$galerie ?>" width="10%" alt="" />
                 <?php
             }

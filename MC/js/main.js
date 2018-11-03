@@ -122,6 +122,14 @@
             });
 
         }
+
+
+
+
+
+
+
+
 	
     //Google Map
     var get_latitude = $('#google-map').data('latitude');
